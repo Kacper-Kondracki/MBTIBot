@@ -1,0 +1,2 @@
+# MBTIBot
+ MBTI Discord Bot
